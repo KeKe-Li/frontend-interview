@@ -1,0 +1,9 @@
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# node ignore
+node_modules/
+dist/
